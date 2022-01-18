@@ -1,4 +1,4 @@
-# NYPD-Complaints
+# NYPD Complaints
 
 This project was done as a part of coursework for IST 718- Big Data Analytics at Syracuse University under Prof. Daniel Acuna.
 
